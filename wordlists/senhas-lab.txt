@@ -1,0 +1,5 @@
+# Senhas fracas fictícias; não representam credenciais reais
+senha
+123456
+lab123
+Lab@2026!
