@@ -1,0 +1,9 @@
+# Evidências locais: adicione somente capturas revisadas e sanitizadas
+images/*
+!images/.gitkeep
+
+# Arquivos temporários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
