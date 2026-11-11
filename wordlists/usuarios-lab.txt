@@ -1,0 +1,5 @@
+# Contas fictícias para uso exclusivo no laboratório
+labuser
+operador
+teste01
+auditoria
